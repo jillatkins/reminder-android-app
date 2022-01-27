@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF9800</color>
+    <color name="colorPrimaryDark">#E40350</color>
+    <color name="colorAccent">#9EDD53</color>
+    <color name="color_text_reminder_msg">#EC8200</color>
+    <color name="color_lv_divider">#F31661</color>
+    <color name="color_popup_buttons">#A80B41</color>
+</resources>
